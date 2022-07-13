@@ -1,0 +1,2 @@
+{"Id":1,"Title":"Build A Boat For Treasure Auto Build","Script":"loadstring(game:HttpGet(\"http://dirtgui.xyz/BuildABoat.lua\",true))()","Date":"24.10.2021 16.54.15","Tags":"AutoBuild | BABFT | BuildABoat","Thumbnail":"https://media.discordapp.net/attachments/775095316424032286/901627001906003968/KT1jO44.png"}
+{"Id":2,"Title":"Infinite Yield","Script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Berkecan123/bekoX/main/ScriptHub/IF.lua\",true))()","Date":"24.10.2021 24.30.04","Tags":"Commands","Thumbnail":"https://i.ytimg.com/vi/U4YgQjlIuuA/hqdefault.jpg"}
